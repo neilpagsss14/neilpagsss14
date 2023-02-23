@@ -8,6 +8,8 @@
 - 📫 How to reach me? 💬 me **neilpagara50@gmail.com**
 
 - ⚡ Fun fact **I'm not pro, but I can help you 🤝**
+  
+- 🌱 **PROGRESS, NOT PERFECTION**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
