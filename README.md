@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neil Pagara</h1>
-<h3 align="center">A student developer in progress, willing to assist you :<</h3>
+<h3 align="center">A fresh graduate and aspiring software and mobile developer, willing to assist you :<</h3>
 
 - 🌱 I’m currently learning **Flutter, React JS, and more.**
 
